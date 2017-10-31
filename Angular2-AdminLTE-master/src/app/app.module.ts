@@ -19,6 +19,7 @@ import { AdminControlSidebarComponent } from './admin/admin-control-sidebar/admi
 import { AdminDashboard1Component } from './admin/admin-dashboard1/admin-dashboard1.component';
 import { TesteComponent } from './teste/teste.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
